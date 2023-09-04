@@ -43,5 +43,4 @@
 
 ---
 
-# [My Resume](https://github.com/adarsh-m-pal/adarsh-m-pal/blob/main/Pankaj_Kumar_Bind_Resume.pdf)
 
